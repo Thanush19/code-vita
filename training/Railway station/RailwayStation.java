@@ -30,11 +30,8 @@ public class RailwayStation {
                 p--;
                 j++;
             }
-            if (p > q)
-                q = p;
+            
         }
-        System.out.println (q);
+        System.out.println (p);
     }
-    
-    
 }
